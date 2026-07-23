@@ -15,4 +15,13 @@ This project demonstrates web scraping using Python. It extracts book titles and
 - README.md
 
 ## Output
-The scraped data is stored in `books_data.csv`.
+
+The program successfully extracts book titles and prices from the website and stores the data in `books_data.csv`.
+
+### Sample Output
+
+| Book Title | Price |
+|------------|-------|
+| A Light in the Attic | £51.77 |
+| Tipping the Velvet | £53.74 |
+| Soumission | £50.10 |
